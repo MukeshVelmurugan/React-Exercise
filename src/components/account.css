@@ -1,0 +1,54 @@
+.layout3 {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+.frame3 {
+    height: 710px;
+    width: 320px;
+    background-color: #f7f8f9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    border: 2px solid #eaeaea;
+  }
+
+.apage{
+  height: 240px;
+  border-bottom: dashed;
+  border-color: #e6e6e6;
+  
+}
+.as{
+    font-size: 17px;
+    background-color: rgb(255, 255, 255);
+    height: 60px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    font-weight: 500;
+}
+.full{
+    display: flex;
+}
+.imgandname{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+}
+.img{
+    height: 80px;
+    padding: 7px;
+    padding-top: 12px;
+}
+.lorem1{
+    padding-left: 20px;
+    padding-right: 10px;
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+}
