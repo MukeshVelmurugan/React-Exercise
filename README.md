@@ -1,16 +1,37 @@
-<<<<<<< HEAD
-# React-exercise
-=======
-# React + Vite
+# 🎬 Simple React Landing Page with Login & Register
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A basic multi-page React app built using **Vite + React.js**.  
+This project features a simple **landing page**, **login page**, **register page**, and an **account page**, demonstrating navigation and UI flow using React Router.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+🔗 [https://react-assignment-project-exercise.netlify.app/](https://react-assignment-project-exercise.netlify.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 780c24f (Initial commit)
+## ✨ Features
+
+- 🏠 **Landing Page**  
+  A simple welcome page for users visiting the site.
+
+- 🔐 **Login Page**  
+  Allows users to enter email and password (UI only, no backend authentication).
+
+- 📝 **Register Page**  
+  Users can create an account (UI only).
+
+- 👤 **Account Page**  
+  Displays basic user info or a welcome message after login/register (no actual auth).
+
+- 🧭 **Navigation**  
+  Implemented using **React Router**.
+
+---
+
+## 🛠 Tech Stack
+
+- ⚡ Vite
+- ⚛️ React.js
+- 🧭 React Router
+- 🎨 CSS (for basic styling)
